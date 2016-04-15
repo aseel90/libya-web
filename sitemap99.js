@@ -9,7 +9,7 @@ var tocConfig = {
     numChars: 140,
     thumbWidth: 70,
     navText: "عرض المزيد &#9660;",
-    frontText: "Top &uArr;",
+    frontText: "أعلى &uArr;",
     noImage: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC",
     loading: "<span>Loading...</span>",
     searching: "<span>Searching...</span>",
