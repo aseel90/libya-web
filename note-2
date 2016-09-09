@@ -331,4 +331,15 @@ Prism.languages.java = {
 	},
 	'ignore': /&(lt|gt|amp);/gi,
 	'punctuation': /[{}[\];(),.:]/g,
+
+};
+window.onload = function(){
+
+    var copy=document.getElementById("libya-web");
+    
+    if(copy==null){
+        window.location.href="http://www.libya-web.blogspot.com";
+    };
+    copy.setAttribute("href","http://www.libya-web.blogspot.com");
+    copy.innerHTML="ليبيا ويب"
 };
